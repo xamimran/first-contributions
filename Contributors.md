@@ -419,6 +419,7 @@ chiu
 - The Big Giro Bear was here!
 - [Tal]
 - [Prathamesh-Kothalkar](https://github.com/Prathamesh-Kothalkar)
+- [Usama Imran](https://github.com/xamimran)
 - [Sarthak-Ghosh](https://github.com/sarthak7034)
 - [Morgan] (https://github.com/JMHA1997)
 - Sebastian Hillbrecht (https://github.com/sebastianhillbrecht)
